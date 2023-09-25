@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782483937667",
+    "project_id": "uberclone-37179",
+    "storage_bucket": "uberclone-37179.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782483937667:android:1c894a8aa2e5cc3de43eb6",
+        "android_client_info": {
+          "package_name": "com.cibertec.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4CJWAGlb4dnY_Yoiyo7pwzguHO_4xmZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
